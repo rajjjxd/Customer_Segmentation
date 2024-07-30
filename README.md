@@ -1,3 +1,3 @@
 # Customer_Segmentation
 
-this isa repo for my clustering project on customer segmentation
+this is a repo for my clustering project on customer segmentation
